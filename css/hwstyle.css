@@ -18,6 +18,9 @@ body{
 }
 
 .img{
+  height: 200px;
+  width: 200px;
+  background-image: url(../img/face.jpg);
   border: 1px solid grey;
   display: block;
   margin: auto;
