@@ -18,6 +18,10 @@ body{
 }
 
 .img{
+  height: 200px;
+  width: 200px;
+  background-image: url(../img/face.jpg);
+  background-size: cover;
   border: 1px solid grey;
   display: block;
   margin: auto;
@@ -35,27 +39,26 @@ body{
 .title1{
   font-size: 19px;
   font-weight: bold;
-  font-style: Tahoma;
+  font-style: Arial;
 }
 
 
 .reasons{
   font-size: 16px;
   color: grey;
-  font-style: Tahoma;
+  font-style: Arial;
 }
 
 .subdescription{
   font-size: 16px;
   color: grey;
-  font-style: Tahoma;
+  font-style: Arial;
 }
 
 .fblink{
   font-size: 16px;
   color: blue;
-  font-style: Tahoma;
-
+  font-style: Arial;
 }
 
 .line{
