@@ -1,0 +1,64 @@
+
+
+body{
+  width: 1024px;
+  height: 1024px;
+}
+
+.box{
+  margin: 0px 265px 0px 265px;
+}
+
+.name{
+  font-weight: bold;
+  font-size: 26px;
+  font: Arial, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.img{
+  border: 1px solid grey;
+  display: block;
+  margin: auto;
+}
+
+.title{
+  margin: 20px 0px 20px 0px;
+  height: 40px;
+  font-size: 16px;
+  font: Arial;
+  color: grey;
+  border-bottom: 1px solid silver;
+}
+
+.title1{
+  font-size: 19px;
+  font-weight: bold;
+  font-style: Tahoma;
+}
+
+
+.reasons{
+  font-size: 16px;
+  color: grey;
+  font-style: Tahoma;
+}
+
+.subdescription{
+  font-size: 16px;
+  color: grey;
+  font-style: Tahoma;
+}
+
+.fblink{
+  font-size: 16px;
+  color: blue;
+  font-style: Tahoma;
+
+}
+
+.line{
+  margin: 20px 0px 20px 0px;
+  border-bottom: 1px solid silver;
+}
