@@ -24,7 +24,7 @@
   list-style-type: none;
   overflow: hidden;
   background-color: #535353;
-  font: Arial; 
+  font: Arial;
 }
 
 .headerli {
@@ -37,14 +37,14 @@
   text-align: center;
   padding: 14px 43px;
   text-decoration: none;
+  border: 1px solid #535353;
   transition: 0.5s background-color;
-
-  /*border: 1px inherit #838383;*/
 }
 
 .header a:hover {
   background-color: #454545;
-  border-color: red;
+  border-left: 1px solid #838383;
+  border-right: 1px solid #838383;
 
 }
 
@@ -82,7 +82,7 @@ border-bottom: 1px solid #c8c8c8;
   text-indent: 20px;
   background-color: #f9f9f9;
   color: #2c2c2c;
-  transition: 0.5s background-color;
+  transition: 0.3s background-color;
 }
 .sideb:hover a {
   color: #2c2c2c;

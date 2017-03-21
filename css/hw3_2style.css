@@ -1,0 +1,107 @@
+.background {
+    width: 977px;
+    height: 880px;
+    margin-left: 350px;
+    background-image: url(../img/hw3/holidays/background.png);
+}
+
+/* HEADER */
+
+.logo {
+  padding: 56px 0px 0px 70px;
+  float: left;
+}
+
+.contacts {
+  float: right;
+  margin: 155px 0px 0px 70px;
+  padding-right: 84px;
+  color: white;
+  font-size: 10px;
+}
+
+/* CONTENT */
+
+
+
+
+.image123 {
+  float: left;
+  padding-left: 70px;
+}
+
+.images1 {
+    display: inline-block;
+    padding: 0px;
+    margin-right: 12px;
+    border: 4px solid #9b9b9b;
+}
+
+.uls1 a {
+    float: left;
+    padding: 5px 0px 0px 190px;
+    text-decoration: none;
+    color: white;
+}
+
+.uls2 a {
+    float: left;
+    padding: 5px 0px 0px 250px;
+    text-decoration: none;
+    color: white;
+}
+
+.uls3 a {
+    float: left;
+    padding: 5px 0px 0px 250px;
+    text-decoration: none;
+    color: white;
+}
+
+
+.image456 {
+  float: left;
+  padding: 70px 0px 0px 70px;
+}
+
+.images2 {
+    display: inline-block;
+    padding: 0px;
+    margin-right: 12px;
+    border: 4px solid #9b9b9b;
+}
+
+  .uls456 {
+clear: both;
+  }
+
+  .uls4 a {
+      float: left;
+      padding: 5px 0px 0px 180px;
+      text-decoration: none;
+      color: white;
+  }
+
+  .uls5 a {
+      float: left;
+      padding: 5px 0px 0px 230px;
+      text-decoration: none;
+      color: white;
+  }
+
+  .uls6 a {
+      float: left;
+      padding: 5px 0px 0px 230px;
+      text-decoration: none;
+      color: white;
+}
+
+/* FOOTER */
+
+.copy {
+    margin: 0px 0px 177px 390px;
+    padding-top: 155px;
+    clear: both;
+    color: white;
+    font-size: 12px;
+}
