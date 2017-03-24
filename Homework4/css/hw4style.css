@@ -1,9 +1,8 @@
-
-.background0 {
+.wrapper {
     position: relative;
     width: 1280px;
     height: 1022px;
-    background-image: url(../img/hw4/background1.png);
+    background-image: url(../img/hw4/wrapper.png);
 }
 
 .background1 {
@@ -29,6 +28,8 @@
     margin-right: 33px;
     margin-top: 10px;
     color: #5fa5bb;
+    font-family: sans-serif;
+    font-size: 12px;
 }
 
 .flags {
@@ -47,6 +48,8 @@
     float: left;
     clear: right;
     margin: 35px 0px 0px 303px;
+    font-family: sans-serif;
+    font-size: 14px;
 
 }
 
@@ -72,6 +75,8 @@
 
 .menu1 {
     padding-right: 35px;
+    font-family: sans-serif;
+    font-size: 14px;
 }
 
 ul {
@@ -113,7 +118,7 @@ ul.submenu2 {
     top: 37px;
     left: 0px;
     background-color: white;
-    border 1px solid #333333;
+    border: 1px solid #333333;
 }
 
 ul.submenu2 > li {
@@ -142,6 +147,8 @@ ul.menu > li:hover > ul.submenu2 {
     height: 538px;
     margin-left: 9px;
     overflow: hidden;
+    font-family: "Helvetica Neue Regular";
+    font-weight: bold;
 }
 
 .leftinfo {
@@ -173,6 +180,8 @@ h2 {
     font-weight: bold;
     text-align: center;
     padding-bottom: 5px;
+    font-family: "Helvetica Neue Regular";
+    font-weight: bold;
 }
 
 p {
@@ -184,4 +193,7 @@ p {
   padding-top: 8px;
   text-align: center;
   color: white;
+  font-family: sans-serif;
+  font-size: 12px;
 }
+fonts/fonts/
